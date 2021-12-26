@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/stage-2-quiz-dynamic-render/static/css/main.398cf611.css",
-    "main.js": "/stage-2-quiz-dynamic-render/static/js/main.984cf776.js",
+    "main.js": "/stage-2-quiz-dynamic-render/static/js/main.c4d16706.js",
     "static/js/787.78562263.chunk.js": "/stage-2-quiz-dynamic-render/static/js/787.78562263.chunk.js",
     "index.html": "/stage-2-quiz-dynamic-render/index.html",
     "main.398cf611.css.map": "/stage-2-quiz-dynamic-render/static/css/main.398cf611.css.map",
-    "main.984cf776.js.map": "/stage-2-quiz-dynamic-render/static/js/main.984cf776.js.map",
+    "main.c4d16706.js.map": "/stage-2-quiz-dynamic-render/static/js/main.c4d16706.js.map",
     "787.78562263.chunk.js.map": "/stage-2-quiz-dynamic-render/static/js/787.78562263.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.398cf611.css",
-    "static/js/main.984cf776.js"
+    "static/js/main.c4d16706.js"
   ]
 }
