@@ -38,7 +38,7 @@ const Quiz = () => {
                 <button onClick={next} disabled={value !== -1 && sno !== quiz.length - 1 ? false : true} >Next</button>
                 <button onClick={() => sno !== quiz.length - 1 ? ReactDOM.render(<App/>,document.querySelector(".App")) : ReactDOM.render(<Result point={ value === currentquestion.correctIndex ? (score+1) : score} total={quiz.length}  />,document.querySelector(".App"))} className={sno !== quiz.length - 1 ? "quit" : "submit"}  >{sno !== quiz.length - 1 ? "Quit" : "Submit "}</button>
             </div>
-            <p>{score}/{quiz.length}</p>
+           
         </React.Fragment>
     )
 
